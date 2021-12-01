@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    font-size: 48px;
+}
+body{
+    background-color: aqua;
+}
+p{
+    color: darkgreen;
+    font-size: 15px;
+}
+.heading{
+    color: purple;
+}
+.Awesome{
+    color: green;
+}
