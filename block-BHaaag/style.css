@@ -1,0 +1,31 @@
+body{
+    background-color: #22396A;
+}
+h2{
+    color: #31B866;
+    font-size: 30px;
+}
+h1{
+    color: #FFFFFF;
+    font-size: 45px;
+}
+address{
+    font-style: normal;
+    color: #FFFFFF;
+    font-size: 12px;
+}
+h3{
+    color: #FFFFFF;
+    font-size: 18px;
+}
+p{
+    color: #FFFFFF;
+    font-size: 10px;
+
+}
+div p{
+    color: crimson;
+    text-decoration: underline;
+    display: inline-block;
+    padding-right: 20px;
+}
