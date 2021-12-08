@@ -1,0 +1,37 @@
+body{
+    background-color: #22396A;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    text-align: center
+}
+div p{
+    color: white;
+    font-size:  20px;
+    text-align: center  
+}
+
+img{
+    margin-left: 520px;
+}
+h2{
+    color: #2DA066;
+    font-size: 40px;
+}
+h3{
+    color: white;
+    font-size: 20px;
+}
+p{
+    color: white;
+    font-size: 12px;
+}
+footer{
+    text-align: center;
+    background-color: #11244D;
+}
+a{
+    color: crimson;
+    margin-right: 30px;
+}
